@@ -24,6 +24,7 @@ fn merge_sorted_arrays(arr1: &[i32], arr2: &[i32]) -> Vec<i32> {
         j += 1;
     }
 
+    
     merged
 }
 

@@ -6,6 +6,7 @@ fn reverse_string(s: &str) -> String {
     reversed
 }
 
+
 fn main() {
     let original = "Hello, world!";
     let reversed = reverse_string(original);
